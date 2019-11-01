@@ -6,7 +6,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-global_city = ''
+global_city = '' #This is needed to hold the name of the city globally through the whole code file
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
