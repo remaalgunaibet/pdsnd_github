@@ -11,3 +11,5 @@ washington.csv
 Credit: This is part of Udacity - Programming for Data Science Project 2.
 
 Implemented by: Rema Algunaibet
+
+Score: Passed project 2 of PDSND
